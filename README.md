@@ -4,7 +4,7 @@
 ## Goals
 - Learn about web 
 - How to load data
-- Data security
+- Using Storybook with Figma
 - etc.
 
 ## Features
